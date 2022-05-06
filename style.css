@@ -1,0 +1,546 @@
+
+
+
+
+/*login start*/
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width:35px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding:7px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;/*login end*/
+}
+
+
+
+
+/*registration start*/
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+
+ /* end reg*/
+
+
+
+
+
+
+
+.header_list{
+
+
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#3a5b9f;
+}
+li{
+	float: left;
+}
+ 
+ li a{
+
+ 	display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ li a:hover {
+  background-color:#787878;
+}
+
+
+
+
+
+}
+#hd{
+	color:navy;
+	text-align: center;
+	background-color:#ff0000;
+	height: 70px;
+	
+	margin-top:0px;
+	margin-bottom: 0px: 
+	padding:25px 16px;
+	font-size:20px;
+	font-style: italic;
+	text-shadow:1px 1px;
+
+
+}
+/*home page style first part*/
+.HA{
+     text-align:center;
+     background-color:#dfedec;   
+     height:400px;
+     width:px;
+     margin-top: 0px;
+     border-bottom: 1px gray solid;
+
+
+
+}
+#HA1{
+
+
+  	color:red;
+  	padding-top: 70px;
+  	font-size: 45px;
+
+  }
+/*header and footer style*/
+body{
+
+
+	background-color:#f0f0f0;
+}
+#footer{
+
+ width:100%;
+ float:left;
+ background-color: gray;
+ margin-top:20PX;
+ margin-bottom:0PX;
+ color: white;
+ height: 100px
+
+
+}
+
+#footerH{
+	text-align:center;
+	
+	font-size:10px;
+
+}
+#hd{
+	color:navy;
+	text-align: center;
+	background-color:#ff0000;
+	height: 70px;
+	
+	margin-top:0px;
+	margin-bottom: 0px: 
+	padding:25px 16px;
+	font-size:20px;
+	font-style: italic;
+	text-shadow:1px 1px;
+
+
+}
+.header_list{
+
+
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#3a5b9f;
+}
+li{
+	float:;
+}
+ 
+ li a{
+
+ 	display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ li a:hover {
+  background-color:#787878;
+}
+
+
+
+/*home page style first part*/
+.HA{
+     text-align:center;
+     background-color:#dfedec;   
+     height:400px;
+     width:px;
+     margin-top: 0px;
+     border-bottom: 1px gray solid;
+
+
+
+}
+  #HA1{
+
+
+  	color:red;
+  	padding-top: 70px;
+  	font-size: 45px;
+
+  }
+
+  .button{
+  	background-color: #4CAF50; /* Green */
+  
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  
+  padding: 14px 40px;
+  border-radius: 12px;
+
+}
+  
+
+/* home page style second part*/
+.HB{
+	text-align: center;
+  background-color:#f0f0f0;
+  font-style: initial;
+  font-size:px;
+   height: 300px;
+   border-bottom: 1px black solid;
+
+
+
+
+}
+
+#HBh1{
+    color: red;
+    padding: 14px 16px;
+    font-size: 40px;
+    font-style:italic;
+    
+
+
+}
+
+#HBh2{
+	color:black;
+	padding: 10px 10px;
+	font-size: 25px;
+
+}
+
+#HBp{
+	color:;
+	font-size: 20px;
+
+}
+/* home page 3rd part*/
+.HC{
+
+	text-align: center;
+	background-color":; 
+	border-bottom:;
+	height:
+
+}
+#HCh1{
+	text-align: center;
+	color: red;
+	font-size: 40px;
+	font-style: italic;
+
+}
+#HCh2{
+        text-align: center;
+	color: black;
+	font-style: normal;
+	font-size: 20px;
+
+}
+.pic{
+	float:right;
+	width: 460px;
+	height: 400px
+
+}
+.HD{
+	background-color: ;
+	border-top:1px black solid;
+  height: ;
+  width:
+
+}
+#HDh1{
+	color: red;
+	font-size: 40px;
+	font-style: normal;
+	padding-left: 10px;
+	padding-top :15px;
+
+
+}
+
+#HDh2{
+	color: black;
+	font-size: 25px;
+    padding-left: 15px;
+	padding-top :10px;
+
+}
+dl{
+	font-size: 20px;
+	color: tomato;
+
+}
+.HE{
+
+ background-color:#97f2ff;
+ height: 400px;
+
+
+}
+#HEh1{
+	text-align: center;
+
+	color:#3cb371;
+
+	font-size: 35px;
+	font-style:italic;
+	
+	padding: 40px 300px;
+}
+.col-sm-4{
+	color:black;
+	font-size:20px;
+	padding: 50px;
+
+}
+.icon{
+	font-size: 70px;
+	color:#3cb371;
+
+}
+.orderpage{
+	text-align:;
+
+	background-color:gray;
+	height:px;
+
+	
+	padding:11px 11px 11px 11px;
+
+	width:100%;
+
+
+}
+
+.orderh2{
+	text-align: center;
+	color:white;
+	font-size: 30px;
+	font-style: italic;
+
+
+}
+
+.orderp{
+	text-align: center;
+	color:white; 
+	font-size:21px;
+	font-style:normal;
+}
+/* About page style ....  */
+
+.about{
+        
+	
+	width:100%;
+	float:left;
+
+
+}
+#aboutH{
+	color: red;
+	font-size: 40px;
+	font-style:italic;
+
+
+	
+}
+#aboutP{
+	color:navy; 
+	font-style;
+	font-size: 17px;
+}
+.col-sm-5{
+	padding-top: 90px;
+}
+.about_list{
+
+	
+	font-size:17px;
+
+	list-style-type: square;
+
+	
+
+}
+
+/* style Faq */
+
+#faqH1{
+	
+	margin-top: 50px;
+	text-align:center;
+
+	color:red;
+
+	font-size: 35px;
+	font-style:italic;
+	
+	padding-left:50px:
+	
+}
+.faq{
+
+	padding: 30px 30px 12px 12px;
+
+	
+
+}
+
+#faqH{
+	color: red;
+	
+	padding-bottom: 40px;
+	font-size: 17px;
+
+
+}
+#faqP{
+	color:blue;
+	font-size: 14px;
+	padding: 25px 12px 20px px;
+}
+
+#contacth1{
+	text-align: center;
+	color: red;
+	padding-top: 40px;
+	font-size: 40px;
+	font-style: italic;
+
+
+}
+input[type=text], select{
+	width: 80%;
+  padding-left:10px;
+  margin: 10px 0;
+  display: 
+  border: 1px solid red;
+  border-radius: 4px;
+  box-sizing: ;
+}
+input[type=number],select{
+	width: 80%;
+	margin:px;
+}
+input[type="file"], select{
+	width:50%;
+
+
+}
+
+input[type=message],select{
+	width: 80%;
+	padding: 60px 20px;
+	margin: 10px;
+}
+input[type=submit],select{
+	width: 40%;
+    background-color:green;
+    padding-top:15px; 
+    padding-bottom:15px;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+
+
+}
+input[type=submit]:hover{
+	background-color:navy;
+}
+
+	
+	
+
+
+
+
+#contacth2{
+	color: white;
+	padding-top:100px;
+	padding-bottom: 300px;
+}
+	
+	#contact_phone{
+
+		text-align: center;
+		color: green;
+		font-size: 20px;
+		padding-top:35%;
+
+	}
+	#contact_email{
+		text-align: center;
+		color: green;
+		font-size: 20px;
+		padding-top: 5%;
+
+	}
+	#contact_address{
+		text-align: center;
+		color: green;
+		font-size: 20px;
+		padding-top: 5%;
+
+	}
+
+
+
+
+
